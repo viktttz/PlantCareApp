@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Plant Care</string>
+    <string name="add_plant">Добавить Растение</string>
+    <string name="plant_name">Название</string>
+    <string name="plant_description">Частота полива</string>
+    <string name="select_last_watered_date">Последний полив</string>
+    <string name="save_plant">Сохранить Растение</string>
+    <string name="last_watered">Последний полив:</string>
+    <string name="water_plant">Растение полито</string>
+    <string name="care_recommendations">Рекомендации:</string>
+    <string name="delete_plant">Удалить растение</string>
+    <string name="notification_time_label">Время напоминания: </string>
+</resources>

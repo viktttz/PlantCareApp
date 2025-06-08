@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Горшок -->
+    <path
+        android:fillColor="#FF795548"
+        android:pathData="M30,70 L30,80 C30,85 38,90 54,90 C70,90 78,85 78,80 L78,70 Z"/>
+    <!-- Растение -->
+    <group>
+        <path
+            android:fillColor="#FF8BC34A"
+            android:pathData="M54,30 C54,30 40,60 44,70 C48,80 60,80 64,70 C68,60 54,30 54,30 Z"/>
+        <path
+            android:fillColor="#FF4CAF50"
+            android:pathData="M54,25 C54,25 65,50 60,65 C55,80 53,80 48,65 C43,50 54,25 54,25 Z"/>
+    </group>
+</vector>
